@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '43377'
     url: http://www.gutenberg.org/2009/agents/43377
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45603#Two-Wars--An-Autobiography-of-General-Samuel-G.-FrenchMexican-War--War-between-the-States-a-D_
 gutenberg_issued: '2014-05-07'
 gutenberg_type: Text
 identifiers:
